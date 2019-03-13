@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity.PlayNhacActivity"
+    tools:context=".activity.PlayNhacActivity"
     android:orientation="vertical"
     android:weightSum="10"
     android:background="@drawable/custom_backgroud_playnhac">

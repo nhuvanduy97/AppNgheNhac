@@ -12,27 +12,27 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <fragment
-            android:name="nvduy1997gmail.com.appnghenhac.Fragment.Fragment_banner"
+            android:name="nvduy1997gmail.com.appnghenhac.fragment.Fragment_banner"
             android:id="@+id/fragmentbanner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <fragment
-            android:name="nvduy1997gmail.com.appnghenhac.Fragment.Fragment_PlayList"
+            android:name="nvduy1997gmail.com.appnghenhac.fragment.Fragment_PlayList"
             android:id="@+id/fragmenplaylist"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <fragment
-            android:name="nvduy1997gmail.com.appnghenhac.Fragment.Fragment_AlbumHot"
+            android:name="nvduy1997gmail.com.appnghenhac.fragment.Fragment_AlbumHot"
             android:id="@+id/fragmentAlbumHot"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <fragment
-            android:name="nvduy1997gmail.com.appnghenhac.Fragment.Fragment_TheLoai_ChuDe"
+            android:name="nvduy1997gmail.com.appnghenhac.fragment.Fragment_TheLoai_ChuDe"
             android:id="@+id/fragment_theloaichude"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <fragment
-            android:name="nvduy1997gmail.com.appnghenhac.Fragment.Fragment_BaiHatHot"
+            android:name="nvduy1997gmail.com.appnghenhac.fragment.Fragment_BaiHatHot"
             android:id="@+id/fragmentBaiHatHot"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>

@@ -11,25 +11,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity.MainActivity">
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity.DanhSachBaiHatActivity">
+        <activity android:name=".activity.DanhSachBaiHatActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity.DanhSachPlayListActivity" />
-        <activity android:name=".Activity.DanhSachChuDeActivity" />
-        <activity android:name=".Activity.DanhSachTheLoaiTheoChuDeActivity" />
-        <activity android:name=".Activity.DanhSachAlbumActivity" />
-        <activity android:name=".Activity.PlayNhacActivity"></activity>
+        <activity android:name=".activity.DanhSachPlayListActivity" />
+        <activity android:name=".activity.DanhSachChuDeActivity" />
+        <activity android:name=".activity.DanhSachTheLoaiTheoChuDeActivity" />
+        <activity android:name=".activity.DanhSachAlbumActivity" />
+        <activity android:name=".activity.PlayNhacActivity"></activity>
     </application>
 
 </manifest>
